@@ -1,0 +1,14 @@
+.button {
+  color: #fff;
+  padding: 0.5rem 2rem;
+  border: 0;
+  border-radius: 0.25rem;
+}
+
+.button-primary {
+  background-color: #3b3b98;
+}
+
+.button-success {
+  background-color: #51ff0c;
+}
