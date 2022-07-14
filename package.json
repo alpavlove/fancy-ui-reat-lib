@@ -37,7 +37,7 @@
     "trailingComma": "es5",
     "tabWidth": 2
   },
-  "name": "fancy-react-ui-lib",
+  "name": "fancy-react-ui-lib2",
   "author": "Alexey Pavlov",
   "module": "dist/fancy-react-ui-lib.esm.js",
   "size-limit": [
