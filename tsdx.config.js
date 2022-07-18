@@ -14,7 +14,6 @@ module.exports = {
         ],
         // only write out CSS for the first bundle (avoids redundant extra files)
         extract: !!options.writeMeta,
-        inject: false,
       })
     );
     return config;
